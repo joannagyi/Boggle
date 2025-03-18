@@ -30,7 +30,15 @@ These files were incorporated to integrate into the Boggle Game.
 -- TrieNode.h
 
 ## Future Improvements
--- More board sizes (5x5, 6x6) <br>
+-- More board sizes (5x5, 6x6) <be>
+
+## Why
+I chose this project to showcase for Tubi's take-home portion because this project was one of the first projects
+where I understood how to code in the language of C++ while understanding the concept of the program. It was such
+a successful yet challenging project that allowed me to understand the importance of documentation and organization. 
+Although it isn't the biggest project I have done, at that time, it felt like such a big accomplishment to finish
+a project like this.
+
 
 Author: Joanna Yi <br>
 Email: joannayi2003@gmail.com
